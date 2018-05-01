@@ -4,7 +4,7 @@
 // @version      0.1
 // @description  Automatically clickc the 'Still Listening' button on Pandora
 // @author       Nic Mews-Schmuck
-// @match        https://www.pandora.com/
+// @match        https://www.pandora.com/*
 // @grant        none
 // ==/UserScript==
 
